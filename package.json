@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is a my portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spartan09/portfolio.git"
+  },
+  "author": "Ayushman Singh Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spartan09/portfolio/issues"
+  },
+  "homepage": "https://github.com/Spartan09/portfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
